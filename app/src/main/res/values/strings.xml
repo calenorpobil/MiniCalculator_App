@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="action_buscar">Buscar\t</string>
+    <string name="action_nuevo">Nuevo</string>
+    <string name="action_opciones">Opciones</string>
+    <string name="sum">+</string>
+    <string-array name="datos_lista">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+        <item>^</item>
+    </string-array>
+</resources>
